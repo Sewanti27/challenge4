@@ -1,0 +1,62 @@
+body{
+  background-color: hsl(217, 54%, 11%);
+  font-family: 'Outfit', sans-serif;
+}
+.card{
+  background-color: hsl(216, 50%, 16%);
+  margin:90px auto 0 auto;
+  width:19.5rem;
+  border-radius:5%;
+}
+/**************Image*******************/
+.card-img-top{
+  border-radius:5%;
+  height:270px;
+  width:270px;
+  margin:20px auto auto auto;
+}
+/******************Aligning the text*****************/
+.problem1{
+  margin-left:8px;
+}
+/*************Adding color to text***************/
+.fonttext1{
+  color:hsl(0, 0%, 100%);
+}
+
+.fonttext{
+  color:hsl(215, 51%, 70%);
+}
+
+.icontext{
+  color:hsl(178, 100%, 50%);
+}
+/***********line******************/
+.border1{
+  margin:0 0 15px 0;
+  border-style: solid none none none;
+  border-color: hsl(215, 51%, 70%);
+  border-width: 2px;
+}
+/*************Icons******************************/
+.addpadding{
+  padding-left:30px;
+}
+.fa-ethereum{
+  margin-right:7px;
+}
+.fa-clock{
+  margin-right:7px;
+}
+/****************Small image*******************/
+.iconavatar{
+  height:40px;
+  border-style: solid;
+  border-color: white;
+  border-radius: 100%
+}
+/*********Footer section**************/
+.attribution{
+  padding-top:50px;
+  color:white;
+}
